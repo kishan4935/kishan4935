@@ -67,7 +67,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.facebook.com/k.i.s.h.a.nkumarnith" target="_blank">
+  <a href="https://www.instagram.com/k.i.s.h.a.n_kumar/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="https://www.linkedin.com/in/kishan-kumar49/" target="_blank">
