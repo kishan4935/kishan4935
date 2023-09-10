@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I am Kishan Kumar, a Frontend Developer from  India.</h2> Thank You for taking the time to view my GitHub Profile :smile: 
+<h2 align="left">Hi 👋!  I am Kishan Kumar, a Frontend Developer from  India.</h2> Thank You for taking the time to view my GitHub Profile :smile: 
 <div align="center">
 <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px height= 100px ></h2> <div size='20px'>   
 </div>
@@ -90,7 +90,6 @@
 
 <br clear="both">
 <h3 align="left">Support:</h3>
- 
-  <p><a href="https://www.buymeacoffee.com/virendrakhQ"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="virendrakhQ" /></a><a href="https://ko-fi.com/virendrakhorwal"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="virendrakhorwal" /></a></p><br><br>
-
+If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈 
+ <p><a href="https://www.buymeacoffee.com/virendrakhQ"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="virendrakhQ" /></a></p><br><br>
 
