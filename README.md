@@ -82,8 +82,3 @@
 
 <br clear="both">
 
-<img src="https://github.com/kishan4935/kishan4935/github-user-contribution.svg" alt="Snake animation" />
-
-###
-
-![](https://octodex.github.com/images/NUX_Octodex.gif)
