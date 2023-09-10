@@ -82,7 +82,7 @@
 
 <br clear="both">
 
-<img src="https://github.com/kishan4935/kishan4935/main/github-user-contribution.svg" alt="Snake animation" />
+<img src="https://github.com/kishan4935/kishan4935/github-user-contribution.svg" alt="Snake animation" />
 
 ###
 
