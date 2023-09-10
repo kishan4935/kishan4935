@@ -1,8 +1,10 @@
-<h2 align="left">Hi 👋! I am Kishan Kumar, a Frontend Developer from  India.</h2> Thank You for taking the time to view my GitHub Profile :smile:  <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px height= 100px ></h2> <div size='20px'>   
+<h2 align="left">Hi 👋! I am Kishan Kumar, a Frontend Developer from  India.</h2> Thank You for taking the time to view my GitHub Profile :smile: 
+<div align="center">
+<img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px height= 100px ></h2> <div size='20px'>   
 </div>
-
+</div>
 ###
-
+<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px' height=32px > </h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kishan4935&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kishan4935&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
