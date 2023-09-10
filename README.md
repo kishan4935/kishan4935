@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://octodex.github.com/images/NUX_Octodex.gif"  />
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
 ###
