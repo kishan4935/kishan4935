@@ -10,7 +10,7 @@
 ###
 
 <img align="right" height="150" src="https://octodex.github.com/images/NUX_Octodex.gif"  />
-![](https://octodex.github.com/images/NUX_Octodex.gif)
+
 
 ###
 
@@ -85,3 +85,5 @@
 <img src="https://github.com/kishan4935/kishan4935/blob/main/github-user-contribution.svg" alt="Snake animation" />
 
 ###
+
+![](https://octodex.github.com/images/NUX_Octodex.gif)
