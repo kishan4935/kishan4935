@@ -91,5 +91,5 @@
 <br clear="both">
 <h3 align="left">Support:</h3>
 If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈 
- <p><a href="https://www.buymeacoffee.com/virendrakhQ"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="virendrakhQ" /></a></p><br><br>
+ <p><a href="https://www.buymeacoffee.com/kishan1601p"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="virendrakhQ" /></a></p><br><br>
 
