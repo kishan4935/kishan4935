@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋!  I am Kishan Kumar, a FullStack Developer from  India.</h2> Thank You for taking the time to view my GitHub Profile :smile: 
+<h2 align="left">Hi 👋!  I am Kishan Kumar, a Fullstack Developer from  India.</h2> Thank You for taking the time to view my GitHub Profile :smile: 
 <div align="center">
 <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px height= 100px ></h2> <div size='20px'>   
 </div>
